@@ -23,14 +23,6 @@ The app allows the user to increment and decrement a number.
 
 ---
 
-## 📂 Project Structure
-
-- `App.js` — main component with state logic  
-- `index.js` — entry point  
-- `index.scss` — styles  
-
----
-
 ## 📦 Installation
 
 ```bash
